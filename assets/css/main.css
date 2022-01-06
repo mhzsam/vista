@@ -1,0 +1,9 @@
+html {
+    width: 100%;
+    padding: 50px;
+}
+
+* {
+    font-family: IRANSans, IranYekan !important;
+    line-height: normal !important
+}
