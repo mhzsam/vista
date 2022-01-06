@@ -23,6 +23,7 @@ export default {
 
     // Global CSS: https://go.nuxtjs.dev/config-css
     css: [
+        "~layouts/global.css",
         '~/assets/css/font.css',
         '~/assets/css/main.css',
     ],
