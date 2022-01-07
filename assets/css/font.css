@@ -1,3 +1,13 @@
+@font-face {
+    font-family: IRANSans;
+    src: url("../fonts/woff/IRANSans.woff") format('woff'), url("../fonts/woff2/IRANSans.woff2") format('woff2'), url("../fonts/otf/IRANSans.otf") format('otf');
+}
+
+html {
+    font-family: "IRANSans";
+}
+
+
 /* @font-face {
     font-family: IranYekan;
     src: url(../fonts/eot/IranYekan.eot);
